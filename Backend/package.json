@@ -1,0 +1,20 @@
+{
+  "name": "chattingapp",
+  "version": "1.0.0",
+  "description": "The Simple Chatting App in 1 hour",
+  "main": "source/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Shier",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "websocket": "^1.0.34",
+    "ws": "^8.11.0"
+  }
+}

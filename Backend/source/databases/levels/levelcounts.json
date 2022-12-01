@@ -1,0 +1,10 @@
+[
+    {
+        "level": 1,
+        "xprequired": 5
+    },
+    {
+        "level": 2,
+        "xprequired": 10
+    }
+]
